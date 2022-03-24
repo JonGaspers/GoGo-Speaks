@@ -11,15 +11,22 @@ wget https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0
 ```
 
 #### Install:
-
+##### yarn
 ```
 yarn install
 ```
-
+##### npm
+```
+npm install
+```
 #### Run ReactJS Client:
-
+##### yarn
 ```
 yarn start
+```
+##### npm
+```
+npm start
 ```
 
 #### Run NodeJS Server (in a separate terminal window):
