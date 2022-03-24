@@ -12,6 +12,11 @@ wget https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0
 Set the pre-trained model files in `/deepspeech-0.9.3-models`
 
 #### Install:
+
+#### SoX Sound eXchange
+Follow this tutorial: https://www.tutorialexample.com/a-step-guide-to-install-sox-sound-exchange-on-windows-10-python-tutorial/
+
+
 ##### yarn
 ```
 yarn install
